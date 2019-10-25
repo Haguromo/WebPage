@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 110 100" style="enable-background:new 0 0 110 100;" width="110" height="100" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AAB7BD;}
+	.st1{fill:#D62F27;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#D2D7D9;}
+	.st4{fill:#525F78;}
+</style>
+<g>
+	<path class="st0" d="M103,16.1v68.3H7V16.1H103 M105,14.1H5v72.3h100V14.1L105,14.1z"/>
+	
+		<rect x="49.2" y="-31.1" transform="matrix(2.858352e-010 1 -1 2.858352e-010 73.8636 -36.0758)" class="st1" width="11.6" height="100"/>
+	
+		<rect x="20.2" y="13" transform="matrix(1.283336e-010 1 -1 1.283336e-010 45.7601 0.1979)" class="st2" width="5.2" height="19.9"/>
+	
+		<rect x="40.5" y="12.6" transform="matrix(1.545979e-010 1 -1 1.545979e-010 65.2505 -20.1782)" class="st3" width="4.3" height="19.9"/>
+	<g>
+		<path class="st4" d="M96.9,56.9H13v-25h83.9V56.9z M15,54.9h79.9v-21H15V54.9z"/>
+		<rect x="54" y="2.2" transform="matrix(0.2449 -0.9696 0.9696 0.2449 -1.5651 86.844)" class="st4" width="2" height="84.5"/>
+		<rect x="12.7" y="43.4" transform="matrix(0.9696 -0.2446 0.2446 0.9696 -9.1971 14.7952)" class="st4" width="84.5" height="2"/>
+	</g>
+	<path class="st4" d="M46.1,80H13V62.4h33V80z M15,78h29V64.4H15V78z"/>
+	<rect x="56.1" y="62.4" class="st4" width="39.9" height="2"/>
+	<rect x="56.1" y="67.6" class="st4" width="39.9" height="2"/>
+	<rect x="56.1" y="72.8" class="st4" width="39.9" height="2"/>
+	<rect x="56.1" y="78" class="st4" width="20.2" height="2"/>
+	<path class="st4" d="M52.9,64.9c-0.8,0-1.5-0.7-1.5-1.5s0.6-1.5,1.5-1.5h0.1c0.8,0,1.5,0.7,1.5,1.5S53.7,64.9,52.9,64.9z"/>
+	<path class="st4" d="M52.9,70.1c-0.8,0-1.5-0.7-1.5-1.5s0.6-1.5,1.5-1.5h0.1c0.8,0,1.5,0.7,1.5,1.5S53.7,70.1,52.9,70.1z"/>
+	<path class="st4" d="M52.9,75.3c-0.8,0-1.5-0.7-1.5-1.5s0.6-1.5,1.5-1.5h0.1c0.8,0,1.5,0.7,1.5,1.5S53.7,75.3,52.9,75.3z"/>
+	<path class="st4" d="M52.9,80.5c-0.8,0-1.5-0.7-1.5-1.5s0.6-1.5,1.5-1.5h0.1c0.8,0,1.5,0.7,1.5,1.5S53.7,80.5,52.9,80.5z"/>
+</g>
+</svg>
